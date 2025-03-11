@@ -15,10 +15,10 @@ Interactive visualizations: Generate dynamic network graphs to showcase connecti
 # How I built it
 Enhanced the given tools to improve accuracy and added multiple new capabilities: Integrated a hybrid tool that combines AQL queries with NetworkX-based visualization to deliver clear and interactive graph representations. Incorporated real-time weather data using a weather API. Designed an intuitive user interface (UI) with Gradio for seamless interaction. Optimized agent-based reasoning to allow the chatbot to use the right tools dynamically.
 
-# Challenges we ran into
+# Challenges I ran into
 Hybrid Tool Integration: Combining graph-based querying (AQL) with algorithmic processing (NetworkX) was complex but crucial for improving insights. Interactive Graph Visualization: Implementing a real-time, dynamic visualization that updates based on user queries posed a significant challenge, but overcame it with a refined approach. Ensuring Accurate Query Responses: Training the agent to choose the right tools for queries required refining our architecture and debugging complex scenarios.
 
-# Accomplishments that we're proud of
+# Accomplishments that I'm proud of
 A chat interface that supports both text and audio responses for accessibility. Successfully integrated an interactive graph visualization that enhances user experience. Built a multi-tool agentic architecture that dynamically selects the best tool for each query.
 
 # What we learned

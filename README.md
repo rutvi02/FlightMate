@@ -1,5 +1,7 @@
 # FlightMate - Your AI companion for all flight related queries
 Hackathon Submission 
+<img width="1446" alt="Screenshot 2025-03-09 at 8 59 47 PM" src="https://github.com/user-attachments/assets/9b89e83a-8ccb-4fba-9e34-a519ecf92cca" />
+
 
 # Inspiration
 Despite the vast availability of flight-related data, there is still a lack of chatbots that provide accurate, real-time flight information in a user-friendly manner. Finding the shortest flight paths, understanding airport statistics, and retrieving live flight details often require navigating through multiple sources. We really need a conversational AI assistant that simplifies this process and delivers precise insights.

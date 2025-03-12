@@ -1,4 +1,4 @@
-# FlightMate - Your AI companion for all your flight related queries
+# FlightMate - Your AI companion for all flight related queries
 Hackathon Submission 
 
 # Inspiration

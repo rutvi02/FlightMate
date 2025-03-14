@@ -25,7 +25,7 @@ Hybrid Tool Integration: Combining graph-based querying (AQL) with algorithmic p
 # Accomplishments that I'm proud of
 A chat interface that supports both text and audio responses for accessibility. Successfully integrated an interactive graph visualization that enhances user experience. Built a multi-tool agentic architecture that dynamically selects the best tool for each query.
 
-# What we learned
+# What I learned
 How to build and integrate AI-powered tools for intelligent querying. The importance of tool selection for AI agents to optimize responses. How to implement agentic architectures that allow for multi-step reasoning.
 
 # What's next for FlightMate
